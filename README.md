@@ -46,7 +46,4 @@
 
 
 ## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://github.com/belyisa/belyisa/blob/output/github-contribution-grid-snake.svg">
-</p>
+![Snake animation](https://github.com/belyisa/belyisa/blob/output/github-contribution-grid-snake.svg)
