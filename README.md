@@ -43,7 +43,3 @@
 🚀 Projetos em destaque
 
 🔹 Em breve...
-
-
-## 🐍 Contribuições
-![Snake animation](https://github.com/belyisa/belyisa/blob/output/github-contribution-grid-snake.svg)
