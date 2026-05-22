@@ -1,8 +1,9 @@
 # 👩‍💻 Isabelle Victória
 
 🎓 Estudante de Ciência da Computação  
-💻 Apaixonada por tecnologia, desenvolvimento e dados  
-🚀 Em constante evolução no mundo da programação  
+🎯 Focada em desenvolvimento backend e banco de dados  
+💡 Interesse em projetos que impactem pessoas  
+🚀 Buscando crescer profissionalmente na área de tecnologia  
 
 ---
 
@@ -43,18 +44,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
-## ✨ Sobre mim
-
-🎯 Focada em desenvolvimento backend e banco de dados  
-📚 Sempre estudando novas tecnologias  
-💡 Interesse em projetos que impactem pessoas  
-🚀 Buscando crescer profissionalmente na área de tecnologia  
-
----
-
-## 🚀 Projetos em destaque
-
-🔹 Em breve...
-
-
